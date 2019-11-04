@@ -1,2 +1,2 @@
 # UnityDefaultSample
-![preview] (https://github.com/SimonneX/pic/raw/master/screenshoot.png)
+![](https://github.com/SimonneX/pic/raw/master/screenshoot.png)
