@@ -1,2 +1,2 @@
 # UnityDefaultSample
-![preview] (screenshoot.png)
+![preview] (/screenshoot.png)
